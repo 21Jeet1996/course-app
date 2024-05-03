@@ -7,6 +7,8 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.2.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
+<!--	<packaging>jar</packaging>
+-->
 	</parent>
 	<groupId>com.course</groupId>
 	<artifactId>course</artifactId>
@@ -14,7 +16,7 @@
 	<name>Course</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 	    <start-class>com/course/CourseApplication.java</start-class>
 
 	</properties>
